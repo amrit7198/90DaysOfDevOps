@@ -6,7 +6,10 @@
 Examples:
 
 - ``` ls -l ```--> list the files and directories in long list format with extra information
+- ![image](https://github.com/amrit7198/90DaysOfDevOps/assets/36197073/849b4f34-9536-40ef-a1e6-9e034cd95f37)
+
 - ```ls -a ```--> list all including hidden files and directory
+- 
 - ```ls *.sh``` --> list all the files having .sh extension.
 
 - ```ls -i ``` --> list the files and directories with index numbers inodes
