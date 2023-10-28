@@ -23,6 +23,9 @@ Example 2: When the script is executed as
 `./createDirectories.sh Movie 20 50`
 then it creates 50 directories as `Movie20 Movie21 Movie23 ...Movie50`
 
+![image](https://github.com/amrit7198/90DaysOfDevOps/assets/36197073/4e97b3e3-354e-40f3-a438-4879001795ab)
+
+
 Notes:
 You may need to use loops or commands (or both), based on your preference . [Check out this reference: https://www.geeksforgeeks.org/bash-scripting-for-loop/](https://www.geeksforgeeks.org/bash-scripting-for-loop/)
 
