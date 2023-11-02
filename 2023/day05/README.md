@@ -37,6 +37,9 @@ Watch [this video](https://youtu.be/aolKiws4Joc)
 
 In case of Doubts, post it in [Discord Channel for #90DaysOfDevOps](https://discord.gg/hs3Pmc5F)
 
+![image](https://github.com/amrit7198/90DaysOfDevOps/assets/36197073/4f06c2b6-91ba-4289-a7bb-edc04470395d)
+
+
 3.  Read About Cron and Crontab, to automate the backup Script
 
 Cron is the system's main scheduler for running jobs or tasks unattended. A command called crontab allows the user to submit, edit or delete entries to cron. A crontab file is a user file that holds the scheduling information.
