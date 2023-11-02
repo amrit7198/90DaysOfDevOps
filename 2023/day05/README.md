@@ -54,6 +54,9 @@ A user is an entity, in a Linux operating system, that can manipulate files and 
 
 [Check out this reference: https://www.geeksforgeeks.org/user-management-in-linux/](https://www.geeksforgeeks.org/user-management-in-linux/)
 
+![image](https://github.com/amrit7198/90DaysOfDevOps/assets/36197073/f7a89a15-3516-447f-a5f6-2371e966c82d)
+
+
 Post your daily work on Linkedin and let [me](https://www.linkedin.com/in/shubhamlondhe1996/) know , writing an article is the best :)
 
 [← Previous Day](../day04/README.md) | [Next Day →](../day06/README.md)
