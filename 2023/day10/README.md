@@ -34,18 +34,24 @@ swithch to `dev` branch ( Make sure your commit message will reflect as "Added n
 
 - version01.txt should reflect at local repo first followed by Remote repo for review.
   [Hint use your knowledge of Git push and git pull commands here]
-
+  
 Add new commit in `dev` branch after adding below mentioned content in Devops/Git/version01.txt:
 While writing the file make sure you write these lines
 
 - 1st line>> This is the bug fix in development branch
 - Commit this with message “ Added feature2 in development branch”
+  
+![image](https://github.com/amrit7198/90DaysOfDevOps/assets/36197073/d04fe3b9-9989-4899-ba91-a4294d57cf67)
 
 - 2nd line>> This is gadbad code
 - Commit this with message “ Added feature3 in development branch
+- 
+![image](https://github.com/amrit7198/90DaysOfDevOps/assets/36197073/10881a61-ed06-4f77-bcec-7d5f8a765df6)
 
 - 3rd line>> This feature will gadbad everything from now.
 - Commit with message “ Added feature4 in development branch
+- 
+![image](https://github.com/amrit7198/90DaysOfDevOps/assets/36197073/3f024a45-0ba3-4a0d-b11c-e8f1ce895aa0)
 
 Restore the file to a previous version where the content should be “This is the bug fix in development branch”
 [Hint use git revert or reset according to your knowledge]
