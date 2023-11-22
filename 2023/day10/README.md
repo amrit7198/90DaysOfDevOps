@@ -56,6 +56,9 @@ While writing the file make sure you write these lines
 Restore the file to a previous version where the content should be “This is the bug fix in development branch”
 [Hint use git revert or reset according to your knowledge]
 
+![image](https://github.com/amrit7198/90DaysOfDevOps/assets/36197073/c4aa9704-8aac-46c1-9e6d-9d5de8fc3785)
+
+
 ## Task 2:
 
 - Demonstrate the concept of branches with 2 or more branches with screenshot.
