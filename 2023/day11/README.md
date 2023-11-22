@@ -22,9 +22,20 @@ git status command shows the files that have conflicts, git diff command shows t
 # Task-01
 
 - Create a new branch and make some changes to it.
+
+  ![image](https://github.com/amrit7198/90DaysOfDevOps/assets/36197073/053d7bc8-3faa-4c5d-aded-f83adf5d155c)
+
 - Use git stash to save the changes without committing them.
+
+  ![image](https://github.com/amrit7198/90DaysOfDevOps/assets/36197073/660eaa90-2a97-4e1d-b4fc-07c9224bb7a5)
+
 - Switch to a different branch, make some changes and commit them.
+
+  ![image](https://github.com/amrit7198/90DaysOfDevOps/assets/36197073/95017a0f-9666-45eb-b32c-acf4e90d8ca8)
+
 - Use git stash pop to bring the changes back and apply them on top of the new commits.
+
+  ![image](https://github.com/amrit7198/90DaysOfDevOps/assets/36197073/48e97878-a52c-4e2b-ba9e-6c7dd2e0feef)
 
 # Task-02
 
@@ -43,12 +54,20 @@ git status command shows the files that have conflicts, git diff command shows t
 
 - All these commits messages should be reflected in Production branch too which will come out from Master branch (Hint: try rebase).
 
+  ![image](https://github.com/amrit7198/90DaysOfDevOps/assets/36197073/118e386d-5dd9-4a98-aba3-f31258218332)
+
+  ![image](https://github.com/amrit7198/90DaysOfDevOps/assets/36197073/8c015439-2ab1-44a7-adff-d07fe4867e3d)
+
+
 # Task-03
 
 - In Production branch Cherry pick Commit “Added feature2.2 in development branch” and added below lines in it:
 - Line to be added after Line3>> This is the advancement of previous feature
 - Line4>>Added few more changes to make it more optimized.
 - Commit: Optimized the feature
+
+  ![image](https://github.com/amrit7198/90DaysOfDevOps/assets/36197073/e87003ca-1c28-413c-90b8-573668db2cb2)
+
 
 ## Reference [video](https://youtu.be/apGV9Kg7ics)
 
