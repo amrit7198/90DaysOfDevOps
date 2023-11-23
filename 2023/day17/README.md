@@ -14,11 +14,23 @@ task:
 
 - Create a Dockerfile for a simple web application (e.g. a Node.js or Python app)
 
+  ![image](https://github.com/amrit7198/90DaysOfDevOps/assets/36197073/e7fe61c6-7e4d-4fe9-9d2a-20721da6fed4)
+
+
 - Build the image using the Dockerfile and run the container
+
+  ![image](https://github.com/amrit7198/90DaysOfDevOps/assets/36197073/97044468-e1d9-48af-b5b6-e7db9a69e57c)
+
 
 - Verify that the application is working as expected by accessing it in a web browser
 
+  ![image](https://github.com/amrit7198/90DaysOfDevOps/assets/36197073/8216a54c-6223-4a90-9428-5c6dc2bd4447)
+
+
 - Push the image to a public or private repository (e.g. Docker Hub )
+
+  ![image](https://github.com/amrit7198/90DaysOfDevOps/assets/36197073/d413b536-58f9-4e59-8694-cd433c0ad05e)
+
 
 For Refference Project visit [here](https://youtu.be/Tevxhn6Odc8)
 
